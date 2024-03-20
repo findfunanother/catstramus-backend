@@ -4,7 +4,7 @@ const serverless = require('serverless-http');
 
 const OpenAI = require("openai");
 
-const openai = new OpenAI( {apiKey: "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", 
+const openai = new OpenAI( {apiKey: "", 
 });
 
 
